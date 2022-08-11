@@ -1,4 +1,4 @@
-Ad Information Management System (AIMS)
+# Ad Information Management System (AIMS) Issues
 
 
 This is a public issue tracker for AIMS, where anyone can contribute.
